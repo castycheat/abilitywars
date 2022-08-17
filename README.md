@@ -1,2 +1,0 @@
-# abilitywars
-scripts
